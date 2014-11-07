@@ -1,0 +1,5 @@
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaYProducto\AppsSumaYProducto\bin\Debug\AppsSumaYProducto.exe.config
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaYProducto\AppsSumaYProducto\bin\Debug\AppsSumaYProducto.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaYProducto\AppsSumaYProducto\bin\Debug\AppsSumaYProducto.pdb
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaYProducto\AppsSumaYProducto\obj\Debug\AppsSumaYProducto.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsSumaYProducto\AppsSumaYProducto\obj\Debug\AppsSumaYProducto.pdb
